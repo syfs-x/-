@@ -333,3 +333,4 @@ class DyttSpider:
 if __name__ == '__main__':
     spider = DyttSpider(max_pages=100)
     spider.run()
+
